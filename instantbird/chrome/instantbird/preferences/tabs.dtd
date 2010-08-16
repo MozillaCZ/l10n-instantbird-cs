@@ -1,0 +1,11 @@
+<!ENTITY openConversationsInTabs.label       "Otevírat nové konverzace v panelech místo v oknech">
+<!ENTITY openConversationsInTabs.accesskey   "O">
+
+<!ENTITY useSeparateWindowsForMUCs.label     "Použít oddělená okna pro chaty s více uživateli">
+<!ENTITY useSeparateWindowsForMUCs.accesskey "v">
+
+<!ENTITY showTabBar.label                    "Vždy zobrazovat lištu s panely">
+<!ENTITY showTabBar.accesskey                "z">
+
+<!ENTITY warnCloseMultipleTabs.label         "Varovat, pokud zavírám okno s nepřečtenými zprávami">
+<!ENTITY warnCloseMultipleTabs.accesskey     "a">

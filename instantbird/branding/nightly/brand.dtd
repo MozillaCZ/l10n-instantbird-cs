@@ -1,0 +1,6 @@
+<!-- nightly branding -->
+
+<!ENTITY  brandShortName        "Instantbird">
+<!ENTITY  brandFullName         "Instantbird - Nightly">
+<!ENTITY  brandMotto            "'Cause geeks can also do magic!">
+<!ENTITY  vendorShortName       "Instantbird">

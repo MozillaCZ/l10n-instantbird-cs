@@ -1,0 +1,30 @@
+<!ENTITY windowTitle.label            "Průvodce tvorbou účtu">
+
+<!ENTITY accountWelcomeTitle.label   "Vítejte">
+<!ENTITY accountWelcomeInfo.label    "Tento průvodce vám pomůže s nastavením vašeho IM účtu pro používání &brandShortName;u.">
+
+<!ENTITY accountProtocolTitle.label   "Protokol">
+<!ENTITY accountProtocolInfo.label    "Vyberte, prosím, protokol vašeho IM účtu z následujícího seznamu.">
+<!ENTITY accountProtocolField.label   "Protokol:">
+<!ENTITY accountProtocolGetMore.label "Získat další…">
+
+<!ENTITY accountUsernameTitle.label   "Uživ.jméno">
+<!ENTITY accountUsernameDuplicate.label "Tento účet je již nastaven!">
+
+<!ENTITY accountPasswordTitle.label   "Heslo">
+<!ENTITY accountPasswordInfo.label    "Vložte, prosím, do pole vaše heslo.">
+<!ENTITY accountPasswordField.label   "Heslo:">
+
+<!ENTITY accountAdvancedTitle.label   "Rozšířené možnosti">
+<!ENTITY accountAdvancedInfo.label    "Chcete-li, tento krok můžete vynechat.">
+<!ENTITY accountAdvanced.newMailNotification.label   "Upozornit na novou Poštu">
+<!ENTITY accountAliasGroupbox.caption "Místní přezdívka">
+<!ENTITY accountAliasField.label      "Přezdívka:">
+<!ENTITY accountAliasInfo.label       "Tato bude zobrazena pouze ve vašich konverzacích, vzdálení kamarádi ji neuvidí.">
+<!ENTITY accountProxySettings.caption "Nastavení proxy">
+<!ENTITY accountProxySettings.change.label     "Změnit…">
+<!ENTITY accountProxySettings.change.accessKey "Z">
+
+<!ENTITY accountSummaryTitle.label   "Přehled">
+<!ENTITY accountSummaryInfo.label    "Přehled informací, které jste zadali, je zobrazen zde. Zkontrolujte jej, prosím, před tím, než bude účet vytvořen.">
+<!ENTITY accountSummary.connectNow.label "Připojit tento účet nyní.">

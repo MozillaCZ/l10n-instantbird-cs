@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Vstoupit do chatu">
+<!ENTITY name.label                     "Místnost">
+<!ENTITY optional.label                 "(nepovinný)">
+<!ENTITY account.label                  "Účet">
+<!ENTITY autojoin.label                 "Automaticky vstoupit do místnosti chatu">
+<!ENTITY autojoin.accesskey             "A">

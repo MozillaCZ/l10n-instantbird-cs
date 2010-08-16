@@ -1,0 +1,17 @@
+<!ENTITY  colorsDialog.title              "Barvy">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  color                           "Text a Pozadí">
+<!ENTITY  textColor.label                 "Text:">
+<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  backgroundColor.label           "Pozadí:">
+<!ENTITY  backgroundColor.accesskey       "P">
+<!ENTITY  useSystemColors.label           "Použít sytémové barvy">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "Podtrhávat odkazy">
+<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  links                           "Barva odkazů">
+<!ENTITY  linkColor.label                 "Odkazy:">
+<!ENTITY  linkColor.accesskey             "O">

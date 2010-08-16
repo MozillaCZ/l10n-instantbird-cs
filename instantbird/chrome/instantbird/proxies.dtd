@@ -1,0 +1,18 @@
+<!ENTITY proxiesDialog.title                 "Nastavení proxy">
+<!ENTITY proxiesDialogHeader.title           "Nastavení proxy">
+<!ENTITY proxiesDialogHeader.description     "Pro tento účet">
+<!ENTITY proxiesDialog.useGlobalSettings     "Použít globální nastavení">
+<!ENTITY proxiesDialog.directConnection      "Přímé připojení k Internetu">
+<!ENTITY proxiesDialog.noProxy               "(Bez proxy)">
+<!ENTITY proxiesDialog.useEnvironment        "Použít nastavení prostředí">
+<!ENTITY proxiesDialog.noProxyInEnvironment  "Žádné nastavení proxy nebylo v prostředí nalezeno">
+<!ENTITY proxiesDialog.otherSetting          "Další…">
+<!ENTITY proxiesDialog.http.label            "HTTP">
+<!ENTITY proxiesDialog.socks4.label          "SOCKS 4">
+<!ENTITY proxiesDialog.socks5.label          "SOCKS 5">
+<!ENTITY proxiesDialog.hostname.label        "Hostname:">
+<!ENTITY proxiesDialog.hostname.defaultValue "Hostname">
+<!ENTITY proxiesDialog.port.label            "Port:">
+<!ENTITY proxiesDialog.username.label        "Uživ.jméno:">
+<!ENTITY proxiesDialog.password.label        "Heslo:">
+<!ENTITY proxiesDialog.useAsGlobal.label     "Použít tato nastavení pro všechny účty (Změnit&#160;obecná&#160;nastavení)">

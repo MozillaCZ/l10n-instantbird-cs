@@ -1,0 +1,15 @@
+<!ENTITY credit.title        "&brandFullName; Tvůrci">
+<!ENTITY credit.lead         "Hlavní tvůrce">
+<!ENTITY credit.contributors "Přispěvatelé">
+<!ENTITY credit.thanks       "Speciální poděkování">
+
+<!ENTITY credit.license      "licence">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Překlad do češtiny</h3><ul><li>Michal Stanke</li></ul>">
+
+<!ENTITY credit.poweredByGecko "Využívá Gecko&trade; a libpurple">
