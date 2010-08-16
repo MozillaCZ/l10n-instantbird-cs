@@ -1,0 +1,31 @@
+<!ENTITY startup.label               "Spouštění">
+<!ENTITY startupAction.label         "Při startu aplikace &brandShortName;:">
+<!ENTITY startupAction.accesskey     "s">
+<!ENTITY startupOffline.label        "Otevřít Správce účtů">
+<!ENTITY startupConnectAuto.label    "Automaticky připojit mé účty">
+
+<!ENTITY accountsMgr.label             "Účty">
+<!ENTITY manageAccountsDescWin.label   "Změnit nastavení pro vaše účty">
+<!ENTITY manageAccountsDescUnix2.label "Změnit nastavení pro vaše účty">
+<!ENTITY manageAccounts.label          "Spravovat účty…">
+<!ENTITY manageAccounts.accesskey      "ú">
+
+<!ENTITY newMessage.label              "Při obdržení zprávy">
+<!ENTITY getAttention.label            "Blikat tlačítkem hl.panelu">
+<!ENTITY getAttention.accesskey        "B">
+<!ENTITY getAttentionMac.label         "Animovat ikonu v oznamovací oblasti">
+<!ENTITY getAttentionMac.accesskey     "A">
+<!ENTITY unreadCountInDock.label       "Zobrazit počet nepřečtených zpráv v smybolu oznam.oblasti">
+<!ENTITY unreadCountInDock.accesskey   "p">
+<!ENTITY notifyOfNewMessages.label     "Upozornit na neaktivní okno se zprávou">
+<!ENTITY notifyOfNewMessages.accesskey "n">
+
+<!ENTITY sounds.label                  "Zvuky">
+<!ENTITY playSounds.label              "Přehrát zvuky událostí zpráv nebo seznamu kamarádů">
+<!ENTITY playSounds.accesskey          "z">
+
+<!ENTITY addonsMgr.label               "Doplňky">
+<!ENTITY manageAddonsDescWin.label     "Změnit možnosti vašich doplňků">
+<!ENTITY manageAddonsDescUnix2.label   "Změnit možnosti vašich doplňků">
+<!ENTITY manageAddons.label            "Správce doplňků…">
+<!ENTITY manageAddons.accesskey        "S">

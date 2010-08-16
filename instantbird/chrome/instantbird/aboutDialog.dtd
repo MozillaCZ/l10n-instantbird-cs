@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title      "O programu &brandFullName;">
+<!ENTITY credits.label          "Autoři">
+<!ENTITY credits.accesskey      "A">
+<!ENTITY aboutLink.label        "&lt; O aplikaci &brandShortName;">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutVersion           "verze">
+<!ENTITY geckoVersion           "Gecko">
+<!ENTITY libpurpleVersion       "libpurple">
+<!ENTITY copyrightText          "&#169;2007-2010 přispěvatelé. Tento program je svobodný software; můžete jej šířit a/nebo modifikovat podle podmínek licence GNU GPL verze 2.0 nebo vyšší.">

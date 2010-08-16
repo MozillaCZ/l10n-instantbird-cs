@@ -1,0 +1,20 @@
+<!ENTITY  status.label                  "Stav">
+
+<!ENTITY  sendTyping.label              "Odesílat upozornění, že píši, během konverzací">
+<!ENTITY  sendTyping.accesskey          "u">
+
+<!ENTITY  reportIdleAfter.label         "Zobrazit se mým kontaktům jako Nečinný po">
+<!ENTITY  reportIdleAfter.accesskey     "N">
+<!ENTITY  idleTime                      "minutách nečinnosti">
+
+<!ENTITY  andSetStatusToAway.label      "a nastavit stav Pryč s touto zprávou stavu:">
+<!ENTITY  andSetStatusToAway.accesskey  "P">
+
+<!ENTITY  logsGroup.label               "Záznamy">
+
+<!ENTITY  logConversations.label        "Zaznamenávat historii konverzací">
+<!ENTITY  logConversations.accesskey    "h">
+<!ENTITY  logSystem.label               "Zaznamenávat připojení, odpojení a změny stavu">
+<!ENTITY  logSystem.accesskey           "s">
+<!ENTITY  logShowFolder.description     "Zobrazit složku obsahující záznamy">
+<!ENTITY  logShowFolderButton.label     "Otevřít složku…">

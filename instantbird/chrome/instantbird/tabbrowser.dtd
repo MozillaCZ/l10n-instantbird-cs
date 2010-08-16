@@ -1,0 +1,13 @@
+<!ENTITY  untitledTab            "(Bez názvu)">
+<!ENTITY  newTab.label           "Nový panel">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  closeTab.label         "Zavřít panel">
+<!ENTITY  closeTab.accesskey     "Z">
+<!ENTITY  closeOtherTabs.accesskey "o">
+<!ENTITY  closeOtherTabs.label     "Zavřít ostatní panely">
+<!ENTITY  openTabInNewWindow.label     "Otevřít v novém okně">
+<!ENTITY  openTabInNewWindow.accesskey "n">
+<!ENTITY  showLogs.label         "Zobrazit záznamy">
+<!ENTITY  showLogs.accesskey     "Z">
+<!ENTITY  listAllTabs.label      "Seznam panelů">
+<!ENTITY  newTabButton.tooltip   "Otevřít nový panel">

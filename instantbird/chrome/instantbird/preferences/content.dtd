@@ -1,0 +1,22 @@
+<!ENTITY  formattings.label           "Formátování">
+
+<!ENTITY  fontsAndColors.label        "Písma a Barvy">
+
+<!ENTITY  filterLevel.label           "Zobrazit formátování přichozích zpráv:">
+<!ENTITY  filterLevel.accesskey       "f">
+<!ENTITY  filterLevelNone             "žádné">
+<!ENTITY  filterLevelBasic            "pouze základní (tučný, kurzíva, podtržené)">
+<!ENTITY  filterLevelAll              "vše (písma, barvy, …)">
+
+<!ENTITY  defaultFont.label           "Výchozí písmo:">
+<!ENTITY  defaultFont.accesskey       "p">
+<!ENTITY  defaultSize.label           "Velikost:">
+<!ENTITY  defaultSize.accesskey       "e">
+<!ENTITY  defaultColor.label          "Výchozí barva:">
+<!ENTITY  defaultColor.accesskey      "b">
+
+<!ENTITY  advancedColors.label         "Rozšířené…">
+<!ENTITY  advancedColors.accesskey     "o">
+
+<!ENTITY  formatOutgoingMessages.label "Odeslat tyto fonty písma a barvy jako součást zprávy, je-li to možné">
+<!ENTITY  formatOutgoingMessages.accesskey "s">

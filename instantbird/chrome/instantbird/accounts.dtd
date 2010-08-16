@@ -1,0 +1,27 @@
+<!ENTITY accountManager.title                "Správce účtů - &brandShortName;">
+<!ENTITY accountManager.width                "450">
+<!ENTITY accountManager.newAccount.label     "Nový účet">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label          "Zavřít">
+<!ENTITY accountManager.close.accesskey      "a">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Zatím nenastaveny žádné účty!">
+<!ENTITY accountManager.noAccount.description "Klikněte na tlačítko &accountManager.newAccount.label; pro průvodce nastavením účtu.">
+<!ENTITY account.autoSignOn           "Připojit při spuštění">
+<!ENTITY account.connect.label        "Připojit">
+<!ENTITY account.connect.accesskey    "P">
+<!ENTITY account.disconnect.label     "Odpojit">
+<!ENTITY account.disconnect.accesskey "O">
+<!ENTITY account.delete.label         "Odstranit">
+<!ENTITY account.delete.accesskey     "d">
+<!ENTITY account.edit.label           "Volby">
+<!ENTITY account.edit.accesskey       "V">
+<!ENTITY account.moveup.label         "Posunout nahoru">
+<!ENTITY account.movedown.label       "Posunout dolů">
+<!ENTITY account.cancelReconnection.label         "Zrušit opětovné připojení">
+<!ENTITY account.cancelReconnection.accesskey     "Z">
+<!ENTITY account.connecting           "Připojování…">
+<!ENTITY account.disconnecting        "Odpojování…">
+<!ENTITY account.disconnected         "Nepřipojeno">

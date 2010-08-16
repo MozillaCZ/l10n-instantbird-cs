@@ -1,0 +1,81 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Obecné">
+
+<!ENTITY accessibility.label             "Přístupnost">
+
+<!ENTITY useCursorNavigation.label       "Používat kurzorové klávesy pro pohyb v obsahu konverzací">
+<!ENTITY useCursorNavigation.accesskey   "k">
+<!ENTITY searchStartTyping.label         "Psaním vyhledávat text">
+<!ENTITY searchStartTyping.accesskey     "y">
+
+<!ENTITY conversations.label             "Konverzace">
+
+<!ENTITY useAutoScroll.label             "Použít automatické posouvání">
+<!ENTITY useAutoScroll.accesskey         "P">
+<!ENTITY useSmoothScrolling.label        "Použít jemné posouvání">
+<!ENTITY useSmoothScrolling.accesskey    "e">
+<!ENTITY checkSpelling.label             "Při psaní kontrolovat pravopis">
+<!ENTITY checkSpelling.accesskey         "r">
+
+<!ENTITY searchEnginesGroup.label        "Vyhledávací moduly">
+<!ENTITY searchEnginesDesc.label         "Změnit nastavení vyhledávacích modulů">
+<!ENTITY searchEngines.label             "Spravovat vyhledávací moduly">
+<!ENTITY searchEngines.accesskey         "v">
+
+<!ENTITY configEditDesc.label            "Pokročilá nastavení">
+<!ENTITY configEdit.label                "Konfigurační editor…">
+<!ENTITY configEdit.accesskey            "o">
+
+<!ENTITY networkTab.label                "Síť">
+
+<!ENTITY connection.label                "Připojení">
+
+<!ENTITY connectionDesc.label            "Konfigurovat připojení aplikace &brandShortName; k Internetu">
+<!ENTITY connectionInfoDesc.label        "Tyto dvě následující části budou sloučeny v pozdější verzi.">
+<!ENTITY connectionAccountsDesc.label    "Připojení účtů">
+<!ENTITY connectionOtherDesc.label       "Pro vše ostatní (aktualizace, doplňky, …)">
+<!ENTITY connectionSettings.label        "Nastavení…">
+<!ENTITY connectionSettings.accesskey    "n">
+<!ENTITY connectionSettings2.accesskey   "s">
+
+<!ENTITY updateTab.label                 "Aktualizace">
+
+<!ENTITY autoCheck.label                 "Automaticky kontrolovat aktualizace pro:">
+<!ENTITY enableAppUpdate.label           "Aplikace &brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "A">
+<!ENTITY enableAddonsUpdate.label        "Doplňky">
+<!ENTITY enableAddonsUpdate.accesskey    "D">
+<!ENTITY enableSearchUpdate.label        "Vyhledávací moduly">
+<!ENTITY enableSearchUpdate.accesskey    "V">
+<!ENTITY whenUpdatesFound.label          "Je-li dostupná aktualizace pro aplikace &brandShortName;:">
+<!ENTITY askMe.label                     "Vždy se dotázat na další postup">
+<!ENTITY askMe.accesskey                 "l">
+<!ENTITY modeAutomatic.label             "Automaticky aktualizaci stáhnout a nainstalovat">
+<!ENTITY modeAutomatic.accesskey         "t">
+<!ENTITY modeAutoAddonWarn.label         "Upozornit, pokud by aktualizace zakázala některé doplňky">
+<!ENTITY modeAutoAddonWarn.accesskey     "u">
+<!ENTITY updateHistory.label             "Zobrazit historii aktualizací…">
+<!ENTITY updateHistory.accesskey         "h">
+
+<!ENTITY encryptionTab.label             "Šifrování">
+
+<!ENTITY protocols.label                 "Protokoly">
+<!ENTITY useSSL3.label                   "Použít SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Použít TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certifikáty">
+<!ENTITY certSelection.description       "Pokud server vyžaduje osobní certifikát:">
+<!ENTITY certs.auto                      "Zvolit automaticky">
+<!ENTITY certs.auto.accesskey            "a">
+<!ENTITY certs.ask                       "Vždy se dotázat">
+<!ENTITY certs.ask.accesskey             "d">
+<!ENTITY viewCerts.label                 "Certifikáty">
+<!ENTITY viewCerts.accesskey             "f">
+<!ENTITY viewCRLs.label                  "Zneplatnění">
+<!ENTITY viewCRLs.accesskey              "Z">
+<!ENTITY verify2.label                   "Ověřování">
+<!ENTITY verify2.accesskey               "O">
+<!ENTITY viewSecurityDevices.label       "Bezpečnostní zařízení">
+<!ENTITY viewSecurityDevices.accesskey   "B">
