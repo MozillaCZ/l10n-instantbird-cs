@@ -7,7 +7,7 @@
 <!ENTITY account.rememberPassword      "pamatovat heslo">
 <!ENTITY account.alias                 "Přezdívka:">
 <!ENTITY account.newMailNotification   "Upozorňovat na novou Poštu">
-<!ENTITY account.autojoin              "Auto-Joined kanály:">
+<!ENTITY account.autojoin              "Automaticky připojované kanály:">
 <!ENTITY account.proxySettings.caption "Nastavení proxy:">
 <!ENTITY account.proxySettings.change.label     "Změnit…">
 <!ENTITY account.proxySettings.change.accessKey "Z">
