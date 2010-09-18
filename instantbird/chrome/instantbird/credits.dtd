@@ -1,4 +1,4 @@
-<!ENTITY credit.title        "&brandFullName; Tvůrci">
+<!ENTITY credit.title        "Tvůrci aplikace &brandFullName;">
 <!ENTITY credit.lead         "Hlavní tvůrce">
 <!ENTITY credit.contributors "Přispěvatelé">
 <!ENTITY credit.thanks       "Speciální poděkování">

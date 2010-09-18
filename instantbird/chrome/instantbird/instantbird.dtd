@@ -11,13 +11,13 @@
 <!-- Copied from mozilla/browser/locales/en-US/chrome/browser/browser.dtd -->
 <!ENTITY quitApplicationCmdWin.label       "Konec">
 <!ENTITY quitApplicationCmdWin.accesskey   "K">
-<!ENTITY quitApplicationCmd.label       "Odejít">
-<!ENTITY quitApplicationCmd.accesskey   "O">
+<!ENTITY quitApplicationCmd.label       "Ukončit">
+<!ENTITY quitApplicationCmd.accesskey   "U">
 <!ENTITY quitApplicationCmdMac.label    "Ukončit &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "U">
 
 <!ENTITY addBuddy           "Přidat kamaráda…">
-<!ENTITY joinChat           "Vstoupit do chatu…">
+<!ENTITY joinChat           "Připojit se k chatu…">
 <!ENTITY setStatusTo        "Nastavit stav…">
 <!ENTITY available          "Dostupný">
 <!ENTITY unavailable        "Nedostupný">
