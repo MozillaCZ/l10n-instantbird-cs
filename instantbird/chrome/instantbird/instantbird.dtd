@@ -9,8 +9,8 @@
 <!ENTITY file.accesskey     "S">
 
 <!-- Copied from mozilla/browser/locales/en-US/chrome/browser/browser.dtd -->
-<!ENTITY quitApplicationCmdWin.label       "Konec">
-<!ENTITY quitApplicationCmdWin.accesskey   "K">
+<!ENTITY quitApplicationCmdWin.label       "Ukončit">
+<!ENTITY quitApplicationCmdWin.accesskey   "U">
 <!ENTITY quitApplicationCmd.label       "Ukončit">
 <!ENTITY quitApplicationCmd.accesskey   "U">
 <!ENTITY quitApplicationCmdMac.label    "Ukončit &brandShortName;">
@@ -98,8 +98,8 @@
 <!ENTITY zoomWindow.label "Lupa">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Volby…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.label        "Možnosti…">
+<!ENTITY preferencesCmdMac.commandkey   "M">
 <!ENTITY servicesMenuMac.label          "Služby">
 <!ENTITY hideThisAppCmdMac.label        "Skrýt &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "I">
