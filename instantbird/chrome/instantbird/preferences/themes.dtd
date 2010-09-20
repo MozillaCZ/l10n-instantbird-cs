@@ -2,7 +2,7 @@
 <!ENTITY messageStylePreview.label         "Náhled:">
 <!ENTITY messageStyleTheme.label           "Styl:">
 <!ENTITY messageStyleBubblesTheme.label    "Bubliny">
-<!ENTITY messageStyleDarkTheme.label       "Temné">
+<!ENTITY messageStyleDarkTheme.label       "Temný">
 <!ENTITY messageStylePaperSheetsTheme.label "Archy papíru">
 <!ENTITY messageStyleSimpleTheme.label     "Prostý">
 <!ENTITY messageStyleDefaultTheme.label    "Výchozí">

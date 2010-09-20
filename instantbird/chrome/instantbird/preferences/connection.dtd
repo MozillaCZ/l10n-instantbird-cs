@@ -39,6 +39,6 @@
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Nepoužívat pro:">
 <!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "Příklad: .mozilla.org, .firma.com, 192.168.1.0/24">
+<!ENTITY  noproxyExplain.label          "Příklad: .firma.com, domena.cz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Pro všechny protokoly používat tento server">
 <!ENTITY  shareproxy.accesskey          "P">

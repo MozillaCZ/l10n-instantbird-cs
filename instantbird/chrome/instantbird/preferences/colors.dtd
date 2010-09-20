@@ -4,14 +4,14 @@
 
 <!ENTITY  color                           "Text a Pozadí">
 <!ENTITY  textColor.label                 "Text:">
-<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Pozadí:">
 <!ENTITY  backgroundColor.accesskey       "P">
 <!ENTITY  useSystemColors.label           "Použít sytémové barvy">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Podtrhávat odkazy">
-<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  underlineLinks.accesskey        "d">
 <!ENTITY  links                           "Barva odkazů">
 <!ENTITY  linkColor.label                 "Odkazy:">
 <!ENTITY  linkColor.accesskey             "O">

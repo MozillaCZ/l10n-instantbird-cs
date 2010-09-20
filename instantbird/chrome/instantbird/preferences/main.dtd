@@ -1,12 +1,12 @@
-<!ENTITY startup.label               "Spouštění">
+<!ENTITY startup.label               "Spuštění">
 <!ENTITY startupAction.label         "Při startu aplikace &brandShortName;:">
 <!ENTITY startupAction.accesskey     "s">
 <!ENTITY startupOffline.label        "Otevřít Správce účtů">
 <!ENTITY startupConnectAuto.label    "Automaticky připojit mé účty">
 
 <!ENTITY accountsMgr.label             "Účty">
-<!ENTITY manageAccountsDescWin.label   "Změnit nastavení pro vaše účty">
-<!ENTITY manageAccountsDescUnix2.label "Změnit nastavení pro vaše účty">
+<!ENTITY manageAccountsDescWin.label   "Změnit nastavení vašich účtů">
+<!ENTITY manageAccountsDescUnix2.label "Změnit nastavení vašich účtů">
 <!ENTITY manageAccounts.label          "Spravovat účty…">
 <!ENTITY manageAccounts.accesskey      "ú">
 
@@ -15,10 +15,10 @@
 <!ENTITY getAttention.accesskey        "B">
 <!ENTITY getAttentionMac.label         "Animovat ikonu v oznamovací oblasti">
 <!ENTITY getAttentionMac.accesskey     "A">
-<!ENTITY unreadCountInDock.label       "Zobrazit počet nepřečtených zpráv v smybolu oznam.oblasti">
+<!ENTITY unreadCountInDock.label       "Zobrazit počet nepřečtených zpráv v ikoně oznam.oblasti">
 <!ENTITY unreadCountInDock.accesskey   "p">
 <!ENTITY notifyOfNewMessages.label     "Upozornit na neaktivní okno se zprávou">
-<!ENTITY notifyOfNewMessages.accesskey "n">
+<!ENTITY notifyOfNewMessages.accesskey "e">
 
 <!ENTITY sounds.label                  "Zvuky">
 <!ENTITY playSounds.label              "Přehrát zvuky událostí zpráv nebo seznamu kamarádů">

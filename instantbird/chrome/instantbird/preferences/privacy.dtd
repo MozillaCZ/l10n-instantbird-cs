@@ -1,7 +1,7 @@
 <!ENTITY  status.label                  "Stav">
 
-<!ENTITY  sendTyping.label              "Odesílat upozornění, že píši, během konverzací">
-<!ENTITY  sendTyping.accesskey          "u">
+<!ENTITY  sendTyping.label              "Zobrazovat v konverzaci, že píši">
+<!ENTITY  sendTyping.accesskey          "p">
 
 <!ENTITY  reportIdleAfter.label         "Zobrazit se mým kontaktům jako Nečinný po">
 <!ENTITY  reportIdleAfter.accesskey     "N">

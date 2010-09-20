@@ -2,7 +2,7 @@
 
 <!ENTITY  fontsAndColors.label        "Písma a Barvy">
 
-<!ENTITY  filterLevel.label           "Zobrazit formátování přichozích zpráv:">
+<!ENTITY  filterLevel.label           "Zobrazit formátování příchozích zpráv:">
 <!ENTITY  filterLevel.accesskey       "f">
 <!ENTITY  filterLevelNone             "žádné">
 <!ENTITY  filterLevelBasic            "pouze základní (tučný, kurzíva, podtržené)">
