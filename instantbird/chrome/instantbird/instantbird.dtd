@@ -19,8 +19,8 @@
 <!ENTITY addBuddy           "Přidat kamaráda…">
 <!ENTITY joinChat           "Připojit se k chatu…">
 <!ENTITY setStatusTo        "Nastavit stav…">
-<!ENTITY available          "Dostupný">
-<!ENTITY unavailable        "Nedostupný">
+<!ENTITY available          "Přítomen">
+<!ENTITY unavailable        "Nepřítomný">
 <!ENTITY offline            "Offline">
 <!ENTITY tools.menu         "Nástroje">
 <!ENTITY tools.accesskey    "N">

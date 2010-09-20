@@ -1,7 +1,7 @@
 <!ENTITY openConversationsInTabs.label       "Otevírat nové konverzace v panelech místo v oknech">
 <!ENTITY openConversationsInTabs.accesskey   "O">
 
-<!ENTITY useSeparateWindowsForMUCs.label     "Použít oddělená okna pro chaty s více uživateli">
+<!ENTITY useSeparateWindowsForMUCs.label     "Použít oddělená okna pro konverzace s více uživateli">
 <!ENTITY useSeparateWindowsForMUCs.accesskey "v">
 
 <!ENTITY showTabBar.label                    "Vždy zobrazovat lištu s panely">

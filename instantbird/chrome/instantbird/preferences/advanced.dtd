@@ -6,14 +6,14 @@
 
 <!ENTITY useCursorNavigation.label       "Používat kurzorové klávesy pro pohyb v obsahu konverzací">
 <!ENTITY useCursorNavigation.accesskey   "k">
-<!ENTITY searchStartTyping.label         "Psaním vyhledávat text">
+<!ENTITY searchStartTyping.label         "Psaním vyhledávat text v konverzaci">
 <!ENTITY searchStartTyping.accesskey     "y">
 
 <!ENTITY conversations.label             "Konverzace">
 
-<!ENTITY useAutoScroll.label             "Použít automatické posouvání">
+<!ENTITY useAutoScroll.label             "Použít automatické posunování">
 <!ENTITY useAutoScroll.accesskey         "P">
-<!ENTITY useSmoothScrolling.label        "Použít jemné posouvání">
+<!ENTITY useSmoothScrolling.label        "Použít jemné posunování">
 <!ENTITY useSmoothScrolling.accesskey    "e">
 <!ENTITY checkSpelling.label             "Při psaní kontrolovat pravopis">
 <!ENTITY checkSpelling.accesskey         "r">
@@ -23,7 +23,7 @@
 <!ENTITY searchEngines.label             "Spravovat vyhledávací moduly">
 <!ENTITY searchEngines.accesskey         "v">
 
-<!ENTITY configEditDesc.label            "Pokročilá nastavení">
+<!ENTITY configEditDesc.label            "Rozšířená nastavení">
 <!ENTITY configEdit.label                "Konfigurační editor…">
 <!ENTITY configEdit.accesskey            "o">
 
@@ -36,8 +36,8 @@
 <!ENTITY connectionAccountsDesc.label    "Připojení účtů">
 <!ENTITY connectionOtherDesc.label       "Pro vše ostatní (aktualizace, doplňky, …)">
 <!ENTITY connectionSettings.label        "Nastavení…">
-<!ENTITY connectionSettings.accesskey    "n">
-<!ENTITY connectionSettings2.accesskey   "s">
+<!ENTITY connectionSettings.accesskey    "s">
+<!ENTITY connectionSettings2.accesskey   "n">
 
 <!ENTITY updateTab.label                 "Aktualizace">
 
@@ -48,7 +48,7 @@
 <!ENTITY enableAddonsUpdate.accesskey    "D">
 <!ENTITY enableSearchUpdate.label        "Vyhledávací moduly">
 <!ENTITY enableSearchUpdate.accesskey    "V">
-<!ENTITY whenUpdatesFound.label          "Je-li dostupná aktualizace pro aplikace &brandShortName;:">
+<!ENTITY whenUpdatesFound.label          "Je-li dostupná aktualizace pro aplikaci &brandShortName;:">
 <!ENTITY askMe.label                     "Vždy se dotázat na další postup">
 <!ENTITY askMe.accesskey                 "l">
 <!ENTITY modeAutomatic.label             "Automaticky aktualizaci stáhnout a nainstalovat">
