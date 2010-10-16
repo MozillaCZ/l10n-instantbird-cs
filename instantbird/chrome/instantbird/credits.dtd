@@ -13,3 +13,11 @@
 <!ENTITY credit.translation "<h3>Překlad do češtiny</h3><ul><li>Michal Stanke</li></ul>">
 
 <!ENTITY credit.poweredByGecko "Využívá Gecko&trade; a libpurple">
+
+<!-- copied from what used to be
+toolkit/locales/en-US/chrome/global/license.dtd in mozilla 1.9.2 -->
+<!ENTITY license.part0     "">
+<!ENTITY license.part1     "Všichni">
+<!ENTITY license.contrib   "spolupracovníci">
+<!ENTITY license.part2     "na kódu Mozilly dle podmínek stanovených v dokumentu">
+<!ENTITY license.part3     ". Všechna práva vyhrazena">

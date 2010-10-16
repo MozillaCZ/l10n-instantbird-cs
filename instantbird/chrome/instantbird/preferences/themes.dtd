@@ -1,24 +1,28 @@
 <!ENTITY messageStyleTab.title             "Zprávy">
 <!ENTITY messageStylePreview.label         "Náhled:">
 <!ENTITY messageStyleTheme.label           "Styl:">
+<!ENTITY messageStyleTheme.accesskey       "S">
 <!ENTITY messageStyleBubblesTheme.label    "Bubliny">
 <!ENTITY messageStyleDarkTheme.label       "Temný">
 <!ENTITY messageStylePaperSheetsTheme.label "Archy papíru">
 <!ENTITY messageStyleSimpleTheme.label     "Prostý">
 <!ENTITY messageStyleDefaultTheme.label    "Výchozí">
-<!ENTITY messageStyleVariant.label         "Varianty:">
+<!ENTITY messageStyleVariant.label         "Varianta:">
+<!ENTITY messageStyleVariant.accesskey     "V">
 <!ENTITY messageStyleShowHeader.label      "Zobrazit hlavičku">
+<!ENTITY messageStyleShowHeader.accesskey  "h">
 <!ENTITY messageStyleNoPreview.title       "Náhled nedostupný">
 <!ENTITY messageStyleNoPreview.description "Toto téma je neplatné nebo současně nedostupné (zakázaný doplněk, Nouzový režim, …).">
 <!ENTITY messageStyleGetMore.label         "Získat další styly zpráv…">
-<!ENTITY messageStyleNoExtraThemes.label   "(žádné další styly nejsou nainstalovány)">
+<!ENTITY messageStyleNoExtraThemes.label   "(další styly nejsou nainstalovány)">
 
 <!ENTITY emoticonsTab.title             "Smajlíky">
 <!ENTITY emoticonsTheme.label           "Sada:">
+<!ENTITY emoticonsTheme.accesskey       "S">
 <!ENTITY emoticonsDefaultTheme.label    "Výchozí">
 <!ENTITY emoticonsDisabled.label        "Zakázány">
 <!ENTITY emoticonsPreview.description   "Tyto textové kódy se v konverzacích zobrazují jako smajlíky:">
 <!ENTITY emoticonsImageColumn.label     "Smajlík">
 <!ENTITY emoticonsTextCodesColumn.label "Textový kód">
 <!ENTITY emoticonsGetMore.label         "Získat další smajlíky…">
-<!ENTITY emoticonsNoExtraThemes.label   "(žádné další sady nejsou nainstalovány)">
+<!ENTITY emoticonsNoExtraThemes.label   "(další sady nejsou nainstalovány)">
