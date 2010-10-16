@@ -28,7 +28,6 @@
 <!ENTITY account.commandkey "U">
 <!ENTITY account.accesskey  "č">
 <!ENTITY addonManager       "Správce doplňků">
-<!ENTITY addonManager.accesskey  "d">
 <!ENTITY checkForUpdates    "Zkontrolovat aktualizace">
 <!ENTITY help.menu          "Nápověda">
 <!ENTITY help.accesskey     "v">

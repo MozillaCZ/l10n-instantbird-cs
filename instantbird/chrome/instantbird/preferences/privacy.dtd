@@ -17,4 +17,5 @@
 <!ENTITY  logSystem.label               "Zaznamenávat připojení, odpojení a změny stavu">
 <!ENTITY  logSystem.accesskey           "s">
 <!ENTITY  logShowFolder.description     "Zobrazit složku obsahující záznamy">
-<!ENTITY  logShowFolderButton.label     "Otevřít složku…">
+<!ENTITY  logShowFolderButton.label     "Otevřít složku záznamů…">
+<!ENTITY  logShowFolderButton.accesskey "z">
