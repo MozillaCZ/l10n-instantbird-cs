@@ -90,10 +90,17 @@
 <!ENTITY moveNewTagCmd.accesskey       "s">
 <!ENTITY showLogsCmd.label             "Zobrazit záznamy">
 <!ENTITY showLogsCmd.accesskey         "Z">
+<!ENTITY hideTagCmd.label              "Skrýt skupinu">
+<!ENTITY hideTagCmd.accesskey          "k">
+<!ENTITY visibleTagsCmd.label          "Viditelné skupiny…">
+<!ENTITY visibleTagsCmd.accesskey      "V">
 <!ENTITY showOfflineBuddiesCmd.label   "Zobrazit offline kamarády">
 <!ENTITY showOfflineBuddiesCmd.accesskey "o">
+
 <!ENTITY expandContactTooltip          "Rozbalit">
 <!ENTITY collapseContactTooltip        "Sbalit">
+
+<!ENTITY hideGroupTooltip              "Skrýt">
 
 <!-- Copied from mozilla/browser/locales/en-US/chrome/browser/baseMenuOverlay.dtd -->
 <!--  Mac OS X Window Menu -->
