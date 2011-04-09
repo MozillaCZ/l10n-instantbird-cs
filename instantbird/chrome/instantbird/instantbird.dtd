@@ -4,7 +4,7 @@
 <!ENTITY logsWindow.title   "Záznamy konverzace - &brandShortName;">
 <!ENTITY logsWindow.titlemodifiermenuseparator " - ">
 <!ENTITY logsWindow.titlemodifier "&brandShortName;">
-<!ENTITY blist.title        "Seznam kamarádů - &brandShortName;">
+<!ENTITY contacts.title     "Kontakty - &brandShortName;">
 <!ENTITY file.menu          "Soubor">
 <!ENTITY file.accesskey     "S">
 
