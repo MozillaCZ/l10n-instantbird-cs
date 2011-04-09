@@ -24,6 +24,14 @@
 <!ENTITY playSounds.label              "Přehrát zvuky událostí zpráv nebo seznamu kamarádů">
 <!ENTITY playSounds.accesskey          "z">
 
+<!ENTITY systray.label                 "Ikona systémové oblasti">
+<!ENTITY minimizeToTray.label          "Minimalizovat Kontakty do systémové oblasti:">
+<!ENTITY minimizeToTray.accesskey      "M">
+<!ENTITY minimizeOn.never.label        "Nikdy (pouze pomocí menu)">
+<!ENTITY minimizeOn.minimize.label     "Místo minimalizace">
+<!ENTITY minimizeOn.close.label        "Místo uzavření">
+<!ENTITY minimizeOn.both.label         "Místo uzavření a minimalizace">
+
 <!ENTITY addonsMgr.label               "Doplňky">
 <!ENTITY manageAddonsDescWin.label     "Změnit možnosti vašich doplňků">
 <!ENTITY manageAddonsDescUnix2.label   "Změnit možnosti vašich doplňků">
