@@ -1,4 +1,4 @@
-<!ENTITY accountManager.title                "Správce účtů - &brandShortName;">
+<!ENTITY accounts.title                "Účty - &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!ENTITY accountManager.newAccount.label     "Nový účet">
 <!ENTITY accountManager.newAccount.accesskey "N">
