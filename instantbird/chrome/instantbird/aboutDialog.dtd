@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title      "O programu &brandFullName;">
+<!ENTITY aboutDialog.title      "O aplikaci &brandFullName;">
 <!ENTITY credits.label          "Autoři">
 <!ENTITY credits.accesskey      "A">
 <!ENTITY aboutLink.label        "&lt; O aplikaci &brandShortName;">
