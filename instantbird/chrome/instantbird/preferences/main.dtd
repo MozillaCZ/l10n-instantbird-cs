@@ -21,8 +21,10 @@
 <!ENTITY notifyOfNewMessages.accesskey "e">
 
 <!ENTITY sounds.label                  "Zvuky">
-<!ENTITY playSounds.label              "Přehrát zvuky událostí zpráv nebo seznamu kamarádů">
-<!ENTITY playSounds.accesskey          "z">
+<!ENTITY playSoundsMessage.label       "Přehrát zvuky událostí zpráv">
+<!ENTITY playSoundsMessage.accesskey   "z">
+<!ENTITY playSoundsBlist.label         "Přehrát zvuky událostí kontaktů">
+<!ENTITY playSoundsBlist.accesskey     "v">
 
 <!ENTITY systray.label                 "Ikona systémové oblasti">
 <!ENTITY minimizeToTray.label          "Minimalizovat Kontakty do systémové oblasti:">
