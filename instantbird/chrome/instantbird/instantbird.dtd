@@ -43,9 +43,6 @@
 <!ENTITY about.accesskey    "I">
 <!ENTITY conversation.contextMenu.close "Zavřít panel">
 <!ENTITY chat.participants  "Účastníci:">
-<!ENTITY topicBar.tooltip   "Dvojklik pro změnu tématu">
-<!ENTITY topicBar.button.label        "Změnit">
-<!ENTITY topicBar.button.accesskey    "Z">
 
 <!ENTITY errorConsoleCmd.label        "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey    "C">
