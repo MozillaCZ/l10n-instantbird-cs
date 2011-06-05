@@ -81,10 +81,10 @@
 <!ENTITY detachCmd.accesskey           "d">
 <!ENTITY deleteCmd.label               "Odstranit">
 <!ENTITY deleteCmd.accesskey           "O">
-<!ENTITY moveCmd.label                 "Přesunout do…">
-<!ENTITY moveCmd.accesskey             "s">
-<!ENTITY moveNewTagCmd.label           "Nová skupina…">
-<!ENTITY moveNewTagCmd.accesskey       "s">
+<!ENTITY tagsCmd.label                 "Tagy…">
+<!ENTITY tagsCmd.accesskey             "T">
+<!ENTITY addNewTagCmd.label            "Nový tag…">
+<!ENTITY addNewTagCmd.accesskey        "T">
 <!ENTITY showLogsCmd.label             "Zobrazit záznamy">
 <!ENTITY showLogsCmd.accesskey         "Z">
 <!ENTITY hideTagCmd.label              "Skrýt skupinu">
