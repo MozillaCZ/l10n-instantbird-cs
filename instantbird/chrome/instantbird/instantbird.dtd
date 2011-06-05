@@ -97,6 +97,8 @@
 <!ENTITY expandContactTooltip          "Rozbalit">
 <!ENTITY collapseContactTooltip        "Sbalit">
 
+<!ENTITY contactDropTarget             "přesuňte kontakt sem pro jeho sloučení">
+
 <!ENTITY hideGroupTooltip              "Skrýt">
 
 <!-- Copied from mozilla/browser/locales/en-US/chrome/browser/baseMenuOverlay.dtd -->
