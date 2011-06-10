@@ -23,9 +23,9 @@
 <!ENTITY searchEngines.label             "Spravovat vyhledávací moduly">
 <!ENTITY searchEngines.accesskey         "v">
 
-<!ENTITY configEditDesc.label            "Rozšířená nastavení">
-<!ENTITY configEdit.label                "Konfigurační editor…">
-<!ENTITY configEdit.accesskey            "o">
+<!ENTITY configEditDesc.label            "Rozšířená konfigurace">
+<!ENTITY configEdit.label                "Editor předvoleb…">
+<!ENTITY configEdit.accesskey            "E">
 
 <!ENTITY networkTab.label                "Síť">
 
