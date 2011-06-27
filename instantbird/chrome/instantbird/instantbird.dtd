@@ -39,7 +39,7 @@
     button in the menubar. -->
 <!ENTITY helpWin.menu       "Nápověda">
 <!ENTITY helpWin.accesskey  "v">
-<!ENTITY about.menu         "O programu &brandShortName;">
+<!ENTITY about.menu         "O aplikaci &brandShortName;">
 <!ENTITY about.accesskey    "I">
 <!ENTITY conversation.contextMenu.close "Zavřít panel">
 <!ENTITY chat.participants  "Účastníci:">
