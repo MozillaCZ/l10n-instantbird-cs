@@ -16,33 +16,38 @@
 <!ENTITY quitApplicationCmdMac.label    "Ukončit &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "U">
 
-<!ENTITY addBuddy           "Přidat kamaráda…">
-<!ENTITY joinChat           "Připojit se k chatu…">
-<!ENTITY setStatusTo        "Nastavit stav…">
-<!ENTITY available          "Přítomen">
-<!ENTITY unavailable        "Nepřítomný">
-<!ENTITY offline            "Offline">
-<!ENTITY tools.menu         "Nástroje">
-<!ENTITY tools.accesskey    "N">
-<!ENTITY accountManager     "Účty">
-<!ENTITY account.commandkey "U">
-<!ENTITY account.accesskey  "č">
-<!ENTITY contacts.label     "Kontakty">
+<!ENTITY addBuddy            "Přidat kamaráda…">
+<!ENTITY addBuddy.commandkey "k">
+<!ENTITY addBuddy.accesskey  "k">
+<!ENTITY joinChat            "Připojit se k chatu…">
+<!ENTITY joinChat.commandkey "p">
+<!ENTITY joinChat.accesskey  "P">
+<!ENTITY setStatusTo         "Nastavit stav…">
+<!ENTITY available           "Přítomen">
+<!ENTITY unavailable         "Nepřítomný">
+<!ENTITY offline             "Offline">
+<!ENTITY tools.menu          "Nástroje">
+<!ENTITY tools.accesskey     "N">
+<!ENTITY accountManager      "Účty">
+<!ENTITY account.commandkey  "U">
+<!ENTITY account.accesskey   "t">
+<!ENTITY contacts.label      "Kontakty">
 <!ENTITY contacts.commandkey "k">
-<!ENTITY contacts.accesskey "K">
-<!ENTITY addonManager       "Správce doplňků">
-<!ENTITY checkForUpdates    "Zkontrolovat aktualizace">
-<!ENTITY help.menu          "Nápověda">
-<!ENTITY help.accesskey     "v">
+<!ENTITY contacts.accesskey  "K">
+<!ENTITY addonManager        "Správce doplňků">
+<!ENTITY addonManager.key    "d">
+<!ENTITY checkForUpdates     "Zkontrolovat aktualizace">
+<!ENTITY help.menu           "Nápověda">
+<!ENTITY help.accesskey      "v">
 <!-- LOCALIZATION NOTE (helpWin.menu):
     Some localizations of Windows (e.g. French, German) use "?" for the help
     button in the menubar. -->
-<!ENTITY helpWin.menu       "Nápověda">
-<!ENTITY helpWin.accesskey  "v">
-<!ENTITY about.menu         "O aplikaci &brandShortName;">
-<!ENTITY about.accesskey    "I">
+<!ENTITY helpWin.menu        "Nápověda">
+<!ENTITY helpWin.accesskey   "v">
+<!ENTITY about.menu          "O aplikaci &brandShortName;">
+<!ENTITY about.accesskey     "I">
 <!ENTITY conversation.contextMenu.close "Zavřít panel">
-<!ENTITY chat.participants  "Účastníci:">
+<!ENTITY chat.participants   "Účastníci:">
 
 <!ENTITY errorConsoleCmd.label        "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey    "C">
