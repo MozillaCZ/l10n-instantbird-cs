@@ -27,6 +27,8 @@
 <!ENTITY playSoundsBlist.accesskey     "v">
 
 <!ENTITY systray.label                 "Ikona systémové oblasti">
+<!ENTITY alwaysShowTrayIcon.label      "Vždy zobrazovat systémovou ikonu">
+<!ENTITY alwaysShowTrayIcon.accesskey  "i">
 <!ENTITY minimizeToTray.label          "Minimalizovat Kontakty do systémové oblasti:">
 <!ENTITY minimizeToTray.accesskey      "M">
 <!ENTITY minimizeOn.never.label        "Nikdy (pouze pomocí menu)">
