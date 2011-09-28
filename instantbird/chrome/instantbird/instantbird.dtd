@@ -4,7 +4,6 @@
 <!ENTITY logsWindow.title   "Záznamy konverzace - &brandShortName;">
 <!ENTITY logsWindow.titlemodifiermenuseparator " - ">
 <!ENTITY logsWindow.titlemodifier "&brandShortName;">
-<!ENTITY contacts.title     "Kontakty - &brandShortName;">
 <!ENTITY file.menu          "Soubor">
 <!ENTITY file.accesskey     "S">
 
@@ -78,8 +77,15 @@
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY engineManagerCmd.label       "Správce vyhledávacích modulů…">
 
+<!ENTITY contactsHeader.label          "Kontakty">
+<!ENTITY convsHeader.label             "Přidržené konverzace">
+
 <!ENTITY openConversationCmd.label     "Zahájit konverzaci">
 <!ENTITY openConversationCmd.accesskey "k">
+<!ENTITY showConversationCmd.label     "Zobrazit konverzaci">
+<!ENTITY showConversationCmd.accesskey "o">
+<!ENTITY closeConversationCmd.label    "Zavřít konverzaci">
+<!ENTITY closeConversationCmd.accesskey "a">
 <!ENTITY aliasCmd.label                "Přejmenovat">
 <!ENTITY aliasCmd.accesskey            "P">
 <!ENTITY detachCmd.label               "Oddělit od kontaktu">
