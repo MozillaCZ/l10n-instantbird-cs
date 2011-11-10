@@ -6,4 +6,5 @@
 <!ENTITY aboutVersion           "verze">
 <!ENTITY geckoVersion           "Gecko">
 <!ENTITY libpurpleVersion       "libpurple">
-<!ENTITY copyrightText          "&#169;2007-2011 přispěvatelé. Tento program je svobodný software; můžete jej šířit a nebo modifikovat podle podmínek licence GNU GPL verze 2.0 nebo vyšší.">
+<!-- Use the &copyrightYear; entity to place the current year. -->
+<!ENTITY copyrightText2          "&#169;2007-&copyrightYear; přispěvatelé. Tento program je svobodný software; můžete jej šířit a nebo modifikovat podle podmínek licence GNU GPL verze 2.0 nebo vyšší.">
