@@ -8,14 +8,25 @@
 <!ENTITY  idleTime                      "minutách nečinnosti">
 
 <!ENTITY  andSetStatusToAway.label      "a nastavit stav Pryč s touto zprávou stavu:">
-<!ENTITY  andSetStatusToAway.accesskey  "P">
+<!ENTITY  andSetStatusToAway.accesskey  "r">
 
 <!ENTITY  logsGroup.label               "Záznamy">
 
 <!ENTITY  logConversations.label        "Zaznamenávat historii konverzací">
-<!ENTITY  logConversations.accesskey    "h">
+<!ENTITY  logConversations.accesskey    "i">
 <!ENTITY  logSystem.label               "Zaznamenávat připojení, odpojení a změny stavu">
 <!ENTITY  logSystem.accesskey           "s">
 <!ENTITY  logShowFolder.description     "Zobrazit složku obsahující záznamy">
 <!ENTITY  logShowFolderButton.label     "Otevřít složku záznamů…">
 <!ENTITY  logShowFolderButton.accesskey "z">
+
+<!-- Passwords, see mail/chrome/messenger/preferences/security.dtd -->
+<!ENTITY  passwords.label               "Uložené hesla">
+<!ENTITY savedPasswords.intro           "Aplikace &brandShortName; si může pamatovat vaše hesla pro jednotlivé účty.">
+<!ENTITY useMasterPassword.label        "Použít hlavní heslo">
+<!ENTITY useMasterPassword.accesskey    "P">
+<!ENTITY masterPassword.intro           "Hlavní heslo, je-li nastaveno, chrání všechna vaše ostatní hesla. Jeho vložení je ale vyžadováno jednou během relace.">
+<!ENTITY changeMasterPassword.label     "Změnit hlavní heslo…">
+<!ENTITY changeMasterPassword.accesskey "m">
+<!ENTITY savedPasswords.label           "Zobrazit hesla…">
+<!ENTITY savedPasswords.accesskey       "h">
