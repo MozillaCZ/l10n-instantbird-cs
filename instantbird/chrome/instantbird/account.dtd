@@ -4,7 +4,6 @@
 <!ENTITY account.advanced              "Pokročilé volby">
 <!ENTITY account.name                  "Uživ.jméno:">
 <!ENTITY account.password              "Heslo:">
-<!ENTITY account.rememberPassword      "pamatovat heslo">
 <!ENTITY account.alias                 "Přezdívka:">
 <!ENTITY account.newMailNotification   "Upozorňovat na novou Poštu">
 <!ENTITY account.autojoin              "Automaticky připojované kanály:">
