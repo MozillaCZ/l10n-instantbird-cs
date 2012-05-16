@@ -4,9 +4,10 @@
 <!ENTITY accountWelcomeInfo.label    "Tento průvodce vám pomůže s nastavením vašeho IM účtu pro používání &brandShortName;u.">
 
 <!ENTITY accountProtocolTitle.label   "Protokol">
-<!ENTITY accountProtocolInfo.label    "Vyberte prosím protokol vašeho IM účtu z následujícího seznamu.">
-<!ENTITY accountProtocolField.label   "Protokol:">
+<!ENTITY accountProtocolInfo.label2   "Vyberte prosím protokol vašeho IM účtu.">
 <!ENTITY accountProtocolGetMore.label "Získat další…">
+<!ENTITY accountProtocolShowMore.label  "Zobrazit všechny protokoly">
+<!ENTITY accountProtocolShowMore.description  "Vyberte si z celého seznamu všech protokolů">
 
 <!ENTITY accountUsernameTitle.label   "Uživ.jméno">
 <!ENTITY accountUsernameDuplicate.label "Tento účet je již nastaven!">
