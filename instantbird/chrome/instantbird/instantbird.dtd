@@ -108,7 +108,7 @@
 <!ENTITY expandContactTooltip          "Rozbalit">
 <!ENTITY collapseContactTooltip        "Sbalit">
 
-<!ENTITY contactDropTarget             "přesuňte kontakt sem pro jeho sloučení">
+<!ENTITY contactDropTarget2            "Přesuňte sem další kontakt pro jejich sloučení.">
 
 <!ENTITY hideGroupTooltip              "Skrýt">
 
