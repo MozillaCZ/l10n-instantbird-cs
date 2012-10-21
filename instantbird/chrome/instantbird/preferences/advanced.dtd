@@ -37,7 +37,7 @@
 
 <!ENTITY connectionDesc.label            "Konfigurovat připojení aplikace &brandShortName; k Internetu">
 <!ENTITY connectionInfoDesc.label        "Tyto dvě následující části budou sloučeny v pozdější verzi.">
-<!ENTITY connectionAccountsDesc.label    "Připojení účtů">
+<!ENTITY connectionLibpurpleDesc.label   "Pro účty implementované pomocí libpurple">
 <!ENTITY connectionOtherDesc.label       "Pro vše ostatní (aktualizace, doplňky, …)">
 <!ENTITY connectionSettings.label        "Nastavení…">
 <!ENTITY connectionSettings.accesskey    "s">
