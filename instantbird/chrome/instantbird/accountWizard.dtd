@@ -33,4 +33,4 @@
 
 <!ENTITY accountSummaryTitle.label   "Přehled">
 <!ENTITY accountSummaryInfo.label    "Přehled informací, které jste zadali, je zobrazen zde. Zkontrolujte jej před tím, než bude účet vytvořen.">
-<!ENTITY accountSummary.connectNow.label "Připojit tento účet nyní.">
+<!ENTITY accountSummary.connectAutomatically.label "Připojit tento účet automaticky.">
