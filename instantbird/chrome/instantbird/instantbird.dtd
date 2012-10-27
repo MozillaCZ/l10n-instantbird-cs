@@ -39,7 +39,8 @@
 <!ENTITY contacts.commandkey "k">
 <!ENTITY contacts.accesskey  "K">
 <!ENTITY addonManager        "Správce doplňků">
-<!ENTITY addonManager.key    "d">
+<!ENTITY addonManager.accesskey       "d">
+<!ENTITY addonManager.commandkey      "d">
 <!ENTITY checkForUpdates     "Zkontrolovat aktualizace">
 <!ENTITY help.menu           "Nápověda">
 <!ENTITY help.accesskey      "v">
