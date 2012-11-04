@@ -45,6 +45,7 @@
 <!ENTITY addonManager          "Správce doplňků">
 <!ENTITY addonManager.accesskey "d">
 <!ENTITY addonManager.commandkey "d">
+<!ENTITY addonManager.key      "d">
 <!ENTITY checkForUpdates       "Zkontrolovat aktualizace">
 <!ENTITY help.menu             "Nápověda">
 <!ENTITY help.accesskey        "v">
