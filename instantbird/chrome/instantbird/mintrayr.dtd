@@ -4,6 +4,8 @@
 
 <!ENTITY mintrayr.minimize "Minimalizovat do lišty">
 <!ENTITY mintrayr.minimize.tip "Minimalizuje aktuální okno do systémové oblasti">
+<!ENTITY mintrayr.minimize.accesskey "M">
 <!ENTITY mintrayr.restore "Obnovit">
+<!ENTITY mintrayr.restore.accesskey "b">
 <!ENTITY mintrayr.keys.minimize.keycode "VK_F9">
 <!ENTITY mintrayr.keys.minimize.modifiers "">
