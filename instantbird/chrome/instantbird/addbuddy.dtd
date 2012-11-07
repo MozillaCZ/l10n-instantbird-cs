@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addBuddyWindow.title           "Přidat kontakt">
+<!ENTITY addContactWindow.title         "Přidat kontakt">
 <!ENTITY name.label                     "Uživ.jméno">
 <!ENTITY account.label                  "Účet">
 <!ENTITY tag.label                      "Skupina">
