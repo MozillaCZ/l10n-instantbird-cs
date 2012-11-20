@@ -20,9 +20,9 @@
 <!ENTITY quitApplicationCmdMac.label    "Ukončit &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "U">
 
-<!ENTITY addContact            "Přidat Kontakt…">
+<!ENTITY addContact            "Přidat kontakt…">
 <!ENTITY addContact.commandkey "k">
-<!ENTITY addContact.accesskey  "K">
+<!ENTITY addContact.accesskey  "k">
 <!ENTITY joinChat              "Připojit se k chatu…">
 <!ENTITY joinChat.commandkey   "p">
 <!ENTITY joinChat.accesskey    "P">
