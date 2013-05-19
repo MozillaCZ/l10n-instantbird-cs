@@ -27,7 +27,7 @@
 <!ENTITY account.movedown.label       "Posunout dolů">
 <!ENTITY account.cancelReconnection.label         "Zrušit opětovné připojení">
 <!ENTITY account.cancelReconnection.accesskey     "Z">
-<!ENTITY account.copyDebugLog.label     "Zkopírovat debug záznam">
+<!ENTITY account.copyDebugLog.label     "Kopírovat ladící záznamy">
 <!ENTITY account.copyDebugLog.accesskey "g">
 <!ENTITY account.connecting           "Připojování…">
 <!ENTITY account.disconnecting        "Odpojování…">
