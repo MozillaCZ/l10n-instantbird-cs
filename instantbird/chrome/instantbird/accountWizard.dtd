@@ -19,7 +19,7 @@
 <!ENTITY accountPasswordTitle.label   "Heslo">
 <!ENTITY accountPasswordInfo.label    "Vložte prosím do pole vaše heslo.">
 <!ENTITY accountPasswordField.label   "Heslo:">
-<!ENTITY accountPasswordManager.label "Vložené heslo bude uloženo do Správce hesel. Nechte toto pole prázdné, pokud chcte být žádáni o heslo při každém připojení tohoto účtu.">
+<!ENTITY accountPasswordManager.label "Vložené heslo bude uloženo do Správce hesel. Nechte toto pole prázdné, pokud chcete být žádáni o heslo při každém připojení tohoto účtu.">
 
 <!ENTITY accountAdvancedTitle.label   "Rozšířené možnosti">
 <!ENTITY accountAdvancedInfo.label    "Chcete-li, tento krok můžete vynechat.">

@@ -11,7 +11,7 @@
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Pozadí:">
 <!ENTITY  backgroundColor.accesskey       "P">
-<!ENTITY  useSystemColors.label           "Použít sytémové barvy">
+<!ENTITY  useSystemColors.label           "Použít systémové barvy">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Podtrhávat odkazy">
