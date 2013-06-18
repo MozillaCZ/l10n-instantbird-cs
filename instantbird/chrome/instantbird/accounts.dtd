@@ -12,7 +12,7 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Zatím nejsou nastaveny žádné účty!">
-<!ENTITY accountManager.noAccount.description "Klikněte na tlačítko &accountManager.newAccount.label; pro průvodce nastavením účtu.">
+<!ENTITY accountManager.noAccount.description "Klepněte na tlačítko &accountManager.newAccount.label; pro průvodce nastavením účtu.">
 <!ENTITY account.autoSignOn.label     "Připojit při spuštění">
 <!ENTITY account.autoSignOn.accesskey "s">
 <!ENTITY account.connect.label        "Připojit">
