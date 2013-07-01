@@ -11,11 +11,5 @@
 <!ENTITY  closeOtherTabs.label     "Zavřít ostatní panely">
 <!ENTITY  openTabInNewWindow.label     "Otevřít v novém okně">
 <!ENTITY  openTabInNewWindow.accesskey "n">
-<!ENTITY  showLogs.label         "Zobrazit záznamy">
-<!ENTITY  showLogs.accesskey     "Z">
-<!ENTITY  closeConv.label        "Zavřít konverzaci">
-<!ENTITY  closeConv.accesskey    "a">
-<!ENTITY  hideConv.label         "Přidržet konverzaci">
-<!ENTITY  hideConv.accesskey     "e">
 <!ENTITY  listAllTabs.label      "Seznam panelů">
 <!ENTITY  newTabButton.tooltip   "Otevřít nový panel">
