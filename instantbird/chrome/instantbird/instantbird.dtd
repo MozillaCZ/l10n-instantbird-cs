@@ -26,6 +26,9 @@
 <!ENTITY joinChat              "Připojit se k chatu…">
 <!ENTITY joinChat.commandkey   "p">
 <!ENTITY joinChat.accesskey    "P">
+<!ENTITY newtab                "Nová konverzace…">
+<!ENTITY newtab.commandkey     "t">
+<!ENTITY newtab.accesskey      "n">
 <!ENTITY setStatusTo           "Nastavit stav…">
 <!ENTITY setStatusTo.accesskey "s">
 <!ENTITY available             "Přítomen">
