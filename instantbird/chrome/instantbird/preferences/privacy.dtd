@@ -25,7 +25,7 @@
 <!ENTITY  logShowFolderButton.accesskey "z">
 
 <!-- Passwords, see mail/chrome/messenger/preferences/security.dtd -->
-<!ENTITY  passwords.label               "Uložené hesla">
+<!ENTITY  passwords.label               "Uložená hesla">
 <!ENTITY savedPasswords.intro           "Aplikace &brandShortName; si může pamatovat vaše hesla pro jednotlivé účty.">
 <!ENTITY useMasterPassword.label        "Použít hlavní heslo">
 <!ENTITY useMasterPassword.accesskey    "P">
