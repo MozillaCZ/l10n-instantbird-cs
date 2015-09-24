@@ -4,14 +4,14 @@
 
 <!ENTITY  status.label                  "Stav">
 
-<!ENTITY  sendTyping.label              "Zobrazovat v konverzaci, že píši">
-<!ENTITY  sendTyping.accesskey          "p">
+<!ENTITY  sendTyping.label              "Odesílat v konverzaci upozornění, že píši">
+<!ENTITY  sendTyping.accesskey          "a">
 
 <!ENTITY  reportIdleAfter.label         "Zobrazit se mým kontaktům jako Nečinný po">
 <!ENTITY  reportIdleAfter.accesskey     "N">
 <!ENTITY  idleTime                      "minutách nečinnosti">
 
-<!ENTITY  andSetStatusToAway.label      "a nastavit stav Pryč s touto zprávou stavu:">
+<!ENTITY  andSetStatusToAway.label      "a nastavit stav Pryč s touto zprávou:">
 <!ENTITY  andSetStatusToAway.accesskey  "r">
 
 <!ENTITY  logsGroup.label               "Záznamy">

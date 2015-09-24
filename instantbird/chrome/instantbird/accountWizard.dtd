@@ -2,35 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label            "Průvodce tvorbou účtu">
+<!ENTITY windowTitle.label            "Průvodce vytvořením účtu">
 
 <!ENTITY accountWelcomeTitle.label   "Vítejte">
 <!ENTITY accountWelcomeInfo.label    "Tento průvodce vám pomůže s nastavením vašeho IM účtu pro používání &brandShortName;u.">
 
-<!ENTITY accountProtocolTitle.label   "Protokol">
-<!ENTITY accountProtocolInfo.label2   "Vyberte prosím protokol vašeho IM účtu.">
+<!ENTITY accountProtocolTitle.label   "Síť chatu">
+<!ENTITY accountProtocolInfo.label2   "Vyberte prosím síť vašeho účtu chatu.">
 <!ENTITY accountProtocolGetMore.label "Získat další…">
 <!ENTITY accountProtocolShowMore.label  "Zobrazit všechny protokoly">
 <!ENTITY accountProtocolShowMore.description  "Vyberte si z celého seznamu všech protokolů">
 
-<!ENTITY accountUsernameTitle.label   "Uživ.jméno">
-<!ENTITY accountUsernameDuplicate.label "Tento účet je již nastaven!">
+<!ENTITY accountUsernameTitle.label   "Uživatelské jméno">
+<!ENTITY accountUsernameDuplicate.label "Tento účet je již vytvořen!">
 
 <!ENTITY accountPasswordTitle.label   "Heslo">
-<!ENTITY accountPasswordInfo.label    "Vložte prosím do pole vaše heslo.">
+<!ENTITY accountPasswordInfo.label    "Vložte prosím heslo k vašemu účtu.">
 <!ENTITY accountPasswordField.label   "Heslo:">
-<!ENTITY accountPasswordManager.label "Vložené heslo bude uloženo do Správce hesel. Nechte toto pole prázdné, pokud chcete být žádáni o heslo při každém připojení tohoto účtu.">
+<!ENTITY accountPasswordManager.label "Vložené heslo bude uloženo ve Správci hesel. Pokud chcete být dotázáni na heslo pokaždé, když dojde k připojení tohoto účtu, nechte toto pole prázdné.">
 
 <!ENTITY accountAdvancedTitle.label   "Rozšířené možnosti">
-<!ENTITY accountAdvancedInfo.label    "Chcete-li, tento krok můžete vynechat.">
+<!ENTITY accountAdvancedInfo.label    "Pokud chcete, můžete tento krok přeskočit.">
 <!ENTITY accountAdvanced.newMailNotification.label   "Upozornit na novou Poštu">
-<!ENTITY accountAliasGroupbox.caption "Místní přezdívka">
-<!ENTITY accountAliasField.label      "Přezdívka:">
-<!ENTITY accountAliasInfo.label       "Tato bude zobrazena pouze ve vašich konverzacích, vzdálení kamarádi ji neuvidí.">
+<!ENTITY accountAliasGroupbox.caption "Místní alias">
+<!ENTITY accountAliasField.label      "Alias:">
+<!ENTITY accountAliasInfo.label       "Bude zobrazen pouze v okně vaší konverzace. Vzdálené kontakty ho neuvidí.">
 <!ENTITY accountProxySettings.caption "Nastavení proxy">
 <!ENTITY accountProxySettings.change.label     "Změnit…">
-<!ENTITY accountProxySettings.change.accessKey "Z">
+<!ENTITY accountProxySettings.change.accessKey "m">
 
-<!ENTITY accountSummaryTitle.label   "Přehled">
-<!ENTITY accountSummaryInfo.label    "Přehled informací, které jste zadali, je zobrazen zde. Zkontrolujte jej před tím, než bude účet vytvořen.">
-<!ENTITY accountSummary.connectAutomatically.label "Připojit tento účet automaticky.">
+<!ENTITY accountSummaryTitle.label   "Souhrn">
+<!ENTITY accountSummaryInfo.label    "Souhrn zadaných informací je zobrazen níže. Před vytvořením účtu si je prosím zkontrolujte.">
+<!ENTITY accountSummary.connectAutomatically.label "Připojovat tento účet automaticky.">

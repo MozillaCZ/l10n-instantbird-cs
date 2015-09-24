@@ -6,7 +6,7 @@
 <!ENTITY startupAction.label         "Při startu aplikace &brandShortName;:">
 <!ENTITY startupAction.accesskey     "s">
 <!ENTITY startupOffline.label        "Otevřít Správce účtů">
-<!ENTITY startupConnectAuto.label    "Automaticky připojit mé účty">
+<!ENTITY startupConnectAuto.label    "Automaticky připojit mé účty chatu">
 
 <!ENTITY accountsMgr.label             "Účty">
 <!ENTITY manageAccountsDescWin.label   "Změnit nastavení vašich účtů">
@@ -14,7 +14,7 @@
 <!ENTITY manageAccounts.label          "Spravovat účty…">
 <!ENTITY manageAccounts.accesskey      "ú">
 
-<!ENTITY newMessage.label              "Při obdržení zprávy">
+<!ENTITY newMessage.label              "Při přijetí zprávy">
 <!ENTITY getAttention.label            "Blikat tlačítkem hl.panelu">
 <!ENTITY getAttention.accesskey        "B">
 <!ENTITY getAttentionMac.label         "Animovat ikonu v oznamovací oblasti">

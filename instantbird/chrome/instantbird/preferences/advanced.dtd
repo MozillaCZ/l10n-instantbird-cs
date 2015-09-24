@@ -6,21 +6,21 @@
 
 <!ENTITY generalTab.label                "Obecné">
 
-<!ENTITY accessibility.label             "Přístupnost">
+<!ENTITY accessibility.label             "Usnadnění">
 
-<!ENTITY useCursorNavigation.label       "Používat kurzorové klávesy pro pohyb v obsahu konverzací">
-<!ENTITY useCursorNavigation.accesskey   "k">
+<!ENTITY useCursorNavigation.label       "Používat kurzorové klávesy pro pohyb v konverzaci">
+<!ENTITY useCursorNavigation.accesskey   "P">
 <!ENTITY searchStartTyping.label         "Psaním vyhledávat text v konverzaci">
-<!ENTITY searchStartTyping.accesskey     "y">
+<!ENTITY searchStartTyping.accesskey     "s">
 
 <!ENTITY conversations.label             "Konverzace">
 
 <!ENTITY useAutoScroll.label             "Použít automatické posunování">
-<!ENTITY useAutoScroll.accesskey         "P">
+<!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Použít jemné posunování">
 <!ENTITY useSmoothScrolling.accesskey    "e">
 <!ENTITY checkSpelling.label             "Při psaní kontrolovat pravopis">
-<!ENTITY checkSpelling.accesskey         "r">
+<!ENTITY checkSpelling.accesskey         "k">
 
 <!ENTITY searchEnginesGroup.label        "Vyhledávací moduly">
 <!ENTITY searchEnginesDesc.label         "Změnit nastavení vyhledávacích modulů">
@@ -29,7 +29,7 @@
 
 <!ENTITY configEditDesc.label            "Rozšířená konfigurace">
 <!ENTITY configEdit.label                "Editor předvoleb…">
-<!ENTITY configEdit.accesskey            "E">
+<!ENTITY configEdit.accesskey            "i">
 
 <!ENTITY networkTab.label                "Síť">
 
@@ -58,9 +58,9 @@
 <!ENTITY modeAutomatic.label             "Automaticky aktualizaci stáhnout a nainstalovat">
 <!ENTITY modeAutomatic.accesskey         "t">
 <!ENTITY modeAutoAddonWarn.label         "Upozornit, pokud by aktualizace zakázala některé doplňky">
-<!ENTITY modeAutoAddonWarn.accesskey     "u">
+<!ENTITY modeAutoAddonWarn.accesskey     "U">
 <!ENTITY updateHistory.label             "Zobrazit historii aktualizací…">
-<!ENTITY updateHistory.accesskey         "h">
+<!ENTITY updateHistory.accesskey         "b">
 
 <!ENTITY encryptionTab.label             "Šifrování">
 
@@ -76,7 +76,7 @@
 <!ENTITY certs.ask                       "Vždy se dotázat">
 <!ENTITY certs.ask.accesskey             "d">
 <!ENTITY viewCerts.label                 "Certifikáty">
-<!ENTITY viewCerts.accesskey             "f">
+<!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewCRLs.label                  "Zneplatnění">
 <!ENTITY viewCRLs.accesskey              "Z">
 <!ENTITY verify2.label                   "Ověřování">
