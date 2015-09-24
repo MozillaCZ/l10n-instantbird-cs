@@ -7,13 +7,13 @@
 <!ENTITY accountManager.newAccount.label     "Nový účet">
 <!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label          "Zavřít">
-<!ENTITY accountManager.close.accesskey      "a">
+<!ENTITY accountManager.close.accesskey      "Z">
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
-<!ENTITY accountManager.noAccount.title      "Zatím nejsou nastaveny žádné účty!">
-<!ENTITY accountManager.noAccount.description "Klepněte na tlačítko &accountManager.newAccount.label; pro průvodce nastavením účtu.">
-<!ENTITY account.autoSignOn.label     "Připojit při spuštění">
+<!ENTITY accountManager.noAccount.title      "Zatím není vytvořen žádný účet">
+<!ENTITY accountManager.noAccount.description "Klepněte na tlačítko &accountManager.newAccount.label; a &brandShortName; vám pomůže vytvořit nový účet.">
+<!ENTITY account.autoSignOn.label     "Připojit při startu">
 <!ENTITY account.autoSignOn.accesskey "s">
 <!ENTITY account.connect.label        "Připojit">
 <!ENTITY account.connect.accesskey    "P">
@@ -26,9 +26,9 @@
 <!ENTITY account.moveup.label         "Posunout nahoru">
 <!ENTITY account.movedown.label       "Posunout dolů">
 <!ENTITY account.cancelReconnection.label         "Zrušit opětovné připojení">
-<!ENTITY account.cancelReconnection.accesskey     "Z">
+<!ENTITY account.cancelReconnection.accesskey     "r">
 <!ENTITY account.copyDebugLog.label     "Kopírovat ladící záznamy">
-<!ENTITY account.copyDebugLog.accesskey "g">
+<!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.connecting           "Připojování…">
 <!ENTITY account.disconnecting        "Odpojování…">
 <!ENTITY account.disconnected         "Odpojen">
