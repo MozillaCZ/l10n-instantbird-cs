@@ -45,31 +45,11 @@
 
 <!ENTITY updateTab.label                 "Aktualizace">
 
-<!ENTITY autoCheck.label                 "Automaticky kontrolovat aktualizace pro:">
-<!ENTITY enableAppUpdate.label           "Aplikace &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "A">
-<!ENTITY enableAddonsUpdate.label        "Doplňky">
-<!ENTITY enableAddonsUpdate.accesskey    "D">
 <!ENTITY enableSearchUpdate.label        "Vyhledávací moduly">
 <!ENTITY enableSearchUpdate.accesskey    "V">
-<!ENTITY whenUpdatesFound.label          "Je-li dostupná aktualizace pro aplikaci &brandShortName;:">
-<!ENTITY askMe.label                     "Vždy se dotázat na další postup">
-<!ENTITY askMe.accesskey                 "l">
-<!ENTITY modeAutomatic.label             "Automaticky aktualizaci stáhnout a nainstalovat">
-<!ENTITY modeAutomatic.accesskey         "t">
-<!ENTITY modeAutoAddonWarn.label         "Upozornit, pokud by aktualizace zakázala některé doplňky">
-<!ENTITY modeAutoAddonWarn.accesskey     "U">
 <!ENTITY updateHistory.label             "Zobrazit historii aktualizací…">
 <!ENTITY updateHistory.accesskey         "b">
 
-<!ENTITY encryptionTab.label             "Šifrování">
-
-<!ENTITY protocols.label                 "Protokoly">
-<!ENTITY useSSL3.label                   "Použít SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Použít TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Certifikáty">
 <!ENTITY certSelection.description       "Pokud server vyžaduje osobní certifikát:">
 <!ENTITY certs.auto                      "Zvolit automaticky">
 <!ENTITY certs.auto.accesskey            "a">
@@ -77,9 +57,5 @@
 <!ENTITY certs.ask.accesskey             "d">
 <!ENTITY viewCerts.label                 "Certifikáty">
 <!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewCRLs.label                  "Zneplatnění">
-<!ENTITY viewCRLs.accesskey              "Z">
-<!ENTITY verify2.label                   "Ověřování">
-<!ENTITY verify2.accesskey               "O">
 <!ENTITY viewSecurityDevices.label       "Bezpečnostní zařízení">
 <!ENTITY viewSecurityDevices.accesskey   "B">
