@@ -110,8 +110,6 @@
 <!ENTITY deleteCmd.accesskey           "O">
 <!ENTITY tagsCmd.label                 "Tagy…">
 <!ENTITY tagsCmd.accesskey             "T">
-<!ENTITY addNewTagCmd.label            "Nový tag…">
-<!ENTITY addNewTagCmd.accesskey        "T">
 <!ENTITY showLogsCmd.label             "Zobrazit záznamy">
 <!ENTITY showLogsCmd.accesskey         "Z">
 <!ENTITY hideTagCmd.label              "Skrýt skupinu">

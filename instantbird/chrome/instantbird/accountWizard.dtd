@@ -4,9 +4,6 @@
 
 <!ENTITY windowTitle.label            "Průvodce vytvořením účtu">
 
-<!ENTITY accountWelcomeTitle.label   "Vítejte">
-<!ENTITY accountWelcomeInfo.label    "Tento průvodce vám pomůže s nastavením vašeho IM účtu pro používání &brandShortName;u.">
-
 <!ENTITY accountProtocolTitle.label   "Síť chatu">
 <!ENTITY accountProtocolInfo.label2   "Vyberte prosím síť vašeho účtu chatu.">
 <!ENTITY accountProtocolGetMore.label "Získat další…">
