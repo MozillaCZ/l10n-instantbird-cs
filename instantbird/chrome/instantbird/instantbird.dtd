@@ -108,13 +108,13 @@
 <!ENTITY detachCmd.accesskey           "d">
 <!ENTITY deleteCmd.label               "Odstranit">
 <!ENTITY deleteCmd.accesskey           "O">
-<!ENTITY tagsCmd.label                 "Tagy…">
-<!ENTITY tagsCmd.accesskey             "T">
+<!ENTITY tagsCmd.label                 "Štítky…">
+<!ENTITY tagsCmd.accesskey             "t">
 <!ENTITY showLogsCmd.label             "Zobrazit záznamy">
 <!ENTITY showLogsCmd.accesskey         "Z">
-<!ENTITY hideTagCmd.label              "Skrýt skupinu">
+<!ENTITY hideTagCmd.label              "Skrýt štítek">
 <!ENTITY hideTagCmd.accesskey          "k">
-<!ENTITY visibleTagsCmd.label          "Viditelné skupiny…">
+<!ENTITY visibleTagsCmd.label          "Viditelné štítky…">
 <!ENTITY visibleTagsCmd.accesskey      "V">
 <!ENTITY showOfflineContactsCmd.label  "Zobrazit Offline kontakty">
 <!ENTITY showOfflineContactsCmd.accesskey "O">
