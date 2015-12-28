@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "Obecné">
 
-<!ENTITY accessibility.label             "Usnadnění">
+<!ENTITY accessibility.label             "Přístupnost">
 
 <!ENTITY useCursorNavigation.label       "Používat kurzorové klávesy pro pohyb v konverzaci">
 <!ENTITY useCursorNavigation.accesskey   "P">
@@ -19,6 +19,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Použít jemné posunování">
 <!ENTITY useSmoothScrolling.accesskey    "e">
+<!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Při psaní kontrolovat pravopis">
 <!ENTITY checkSpelling.accesskey         "k">
 
@@ -45,16 +47,36 @@
 
 <!ENTITY updateTab.label                 "Aktualizace">
 
-<!ENTITY enableSearchUpdate.label        "Vyhledávací moduly">
-<!ENTITY enableSearchUpdate.accesskey    "V">
+<!ENTITY updateApp.label                 "Aktualizace aplikace &brandShortName;:">
+<!ENTITY updateAuto1.label               "Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti)">
+<!ENTITY updateAuto1.accesskey           "I">
+<!ENTITY updateCheck.label               "Vyhledávat aktualizace, ale zeptat se, zda mají být nainstalovány">
+<!ENTITY updateCheck.accesskey           "e">
+<!ENTITY updateManual.label              "Nikdy nevyhledávat aktualizace (nedoporučováno z důvodu rizika ohrožení)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Upozornit, pokud by aktualizace zakázala některé doplňky">
+<!ENTITY updateAutoAddonWarn.accesskey   "U">
+
 <!ENTITY updateHistory.label             "Zobrazit historii aktualizací…">
 <!ENTITY updateHistory.accesskey         "b">
 
+<!ENTITY useService.label                "K instalaci aktualizací použít službu na pozadí">
+<!ENTITY useService.accesskey            "s">
+
+<!ENTITY updateOthers.label              "Automaticky aktualizovat:">
+<!ENTITY enableSearchUpdate.label        "Vyhledávací moduly">
+<!ENTITY enableSearchUpdate.accesskey    "h">
+
+<!ENTITY certificateTab.label            "Certifikáty">
+<!ENTITY certSelection.label             "Požadavky">
 <!ENTITY certSelection.description       "Pokud server vyžaduje osobní certifikát:">
 <!ENTITY certs.auto                      "Zvolit automaticky">
 <!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "Vždy se dotázat">
 <!ENTITY certs.ask.accesskey             "d">
+<!ENTITY enableOCSP.label                "Aktuální platnost certifikátů ověřovat na serverech OCSP">
+<!ENTITY enableOCSP.accesskey            "p">
 <!ENTITY viewCerts.label                 "Certifikáty">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Bezpečnostní zařízení">

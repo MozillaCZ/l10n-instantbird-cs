@@ -29,6 +29,8 @@
 <!ENTITY account.cancelReconnection.accesskey     "r">
 <!ENTITY account.copyDebugLog.label     "Kopírovat ladící záznamy">
 <!ENTITY account.copyDebugLog.accesskey "K">
+<!ENTITY account.showDebugLog.label     "Zobrazit ladící záznamy">
+<!ENTITY account.showDebugLog.accesskey "Z">
 <!ENTITY account.connecting           "Připojování…">
 <!ENTITY account.disconnecting        "Odpojování…">
 <!ENTITY account.disconnected         "Odpojen">
