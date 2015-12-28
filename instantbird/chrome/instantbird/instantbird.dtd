@@ -126,6 +126,21 @@
 
 <!ENTITY hideGroupTooltip              "Skrýt">
 
+<!-- Context Menu to add/remove user icon -->
+<!ENTITY selectFileCmd.label           "Vybrat soubor…">
+<!ENTITY selectFileCmd.accesskey       "s">
+<!ENTITY takePictureCmd.label          "Vyfotit obrázek…">
+<!ENTITY takePictureCmd.accesskey      "t">
+<!ENTITY removeIconCmd.label           "Odebrat">
+<!ENTITY captureCmd.label              "Vyfotit">
+<!ENTITY captureCmd.accesskey          "f">
+<!ENTITY captureBackCmd.label          "Zpět">
+<!ENTITY captureBackCmd.accesskey      "Z">
+<!ENTITY retakeCmd.label               "Znovu">
+<!ENTITY retakeCmd.accesskey           "n">
+<!ENTITY setIconCmd.label              "Nastavit ikonu">
+<!ENTITY setIconCmd.accesskey          "i">
+
 <!-- Copied from mozilla/browser/locales/en-US/chrome/browser/baseMenuOverlay.dtd -->
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Okno">
