@@ -15,7 +15,6 @@
 </Url>
 <Url type="text/html" method="GET" template="http://search.seznam.cz/searchScreen">
 	<Param name="q" value="{searchTerms}"/>
-	<Param name="sourceid" value="instantbird"/>
 </Url>
 <SearchForm>http://search.seznam.cz/</SearchForm>
 </SearchPlugin>
