@@ -1,3 +1,5 @@
 google
+heureka-cz
+mapy-cz
 seznam-cz
 wikipedia-cz
