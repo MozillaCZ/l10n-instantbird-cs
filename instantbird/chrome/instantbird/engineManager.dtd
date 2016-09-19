@@ -7,7 +7,6 @@
 <!ENTITY  engineManager.intro       "Jsou nainstalovány tyto vyhledávací moduly:">
 
 <!ENTITY  columnLabel.name          "Jméno">
-<!ENTITY  columnLabel.keyword       "Klíčové slovo">
 
 <!-- Buttons -->
 <!ENTITY  up.label                  "Posunout nahoru">
@@ -16,8 +15,6 @@
 <!ENTITY  dn.accesskey              "d">
 <!ENTITY  remove.label              "Odebrat">
 <!ENTITY  remove.accesskey          "b">
-<!ENTITY  edit.label                "Upravit klíčové slovo…">
-<!ENTITY  edit.accesskey            "U">
 
 <!ENTITY  addEngine.label           "Získat další vyhledávací moduly…">
 <!ENTITY  addEngine.accesskey       "Z">
